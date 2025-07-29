@@ -1,0 +1,6 @@
+
+openai
+langchain
+tiktoken
+jira
+python-dotenv

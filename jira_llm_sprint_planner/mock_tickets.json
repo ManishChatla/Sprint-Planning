@@ -1,0 +1,21 @@
+
+[
+  {
+    "key": "JIRA-101",
+    "summary": "Create login endpoint",
+    "description": "Implement a secure login REST API for the application.",
+    "points": 3
+  },
+  {
+    "key": "JIRA-102",
+    "summary": "Design homepage layout",
+    "description": "Create a modern homepage using React and Tailwind CSS.",
+    "points": 4
+  },
+  {
+    "key": "JIRA-103",
+    "summary": "Test checkout flow",
+    "description": "Perform integration and regression testing for checkout module.",
+    "points": 3
+  }
+]

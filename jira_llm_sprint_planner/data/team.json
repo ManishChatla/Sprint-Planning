@@ -1,0 +1,9 @@
+
+{
+  "velocity_per_point": 5,
+  "members": [
+    {"name": "Alice", "skills": ["backend", "api"], "available_points": 8},
+    {"name": "Bob", "skills": ["frontend", "react"], "available_points": 6},
+    {"name": "Charlie", "skills": ["qa", "testing"], "available_points": 5}
+  ]
+}
