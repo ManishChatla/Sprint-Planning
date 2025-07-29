@@ -1,0 +1,7 @@
+
+[
+    {"id": "US101", "title": "Setup project repo", "priority": "High", "points": 2, "dependencies": [], "tags": ["setup"]},
+    {"id": "US102", "title": "Implement login", "priority": "High", "points": 5, "dependencies": [], "tags": ["backend"]},
+    {"id": "US103", "title": "Create landing page", "priority": "Medium", "points": 3, "dependencies": [], "tags": ["frontend"]},
+    {"id": "US104", "title": "Write tests", "priority": "Low", "points": 3, "dependencies": [], "tags": ["qa"]}
+]

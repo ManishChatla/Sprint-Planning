@@ -1,0 +1,9 @@
+
+{
+    "members": [
+        {"name": "Alice", "skills": ["backend"], "available_hours": 32},
+        {"name": "Bob", "skills": ["frontend", "backend"], "available_hours": 28},
+        {"name": "Sara", "skills": ["QA"], "available_hours": 30}
+    ],
+    "velocity_per_point": 4
+}
