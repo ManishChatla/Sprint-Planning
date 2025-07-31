@@ -1,0 +1,6 @@
+A Jira ticket contains:
+
+Summary: {summary}
+Description: {description}
+
+What are the technical skills required to complete this task? Return only comma-separated skills.
